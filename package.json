@@ -1,4 +1,4 @@
-
+{
   "name": "employee-tracker",
   "version": "1.0.0",
   "description": "",
@@ -20,5 +20,7 @@
     "console.table": "^0.10.0",
     "inquirer": "^7.0.1",
     "mysql": "^2.17.1"
-  }
+  },
+  "devDependencies": {}
 }
+
