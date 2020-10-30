@@ -47,7 +47,7 @@ Update employee managers
 Delete departments, roles, employees
 
 ## Demo 
-Please access the link [here](https://drive.google.com/file/d/1T8RoHtYoJwoYM72SLN2NRDBJ1nfkCkKZ/view?usp=sharing) to watch the walkthrough video.
+Please access the link provided [here](https://drive.google.com/file/d/12jD77c-_OnHK_F9vt4wD-nfJxu-4-B_P/view?usp=sharing)) to watch the walkthrough video.
 
 ## License
 <p><a href="https://choosealicense.com/licenses/mit/#">MIT</a> License</p>
